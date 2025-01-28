@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: hrsex-pct4e
+created: 2025-01-23T14:34:16-06:00
